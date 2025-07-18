@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Programming Lessons for biginners
-description: programming turtorials for beginners
+title: 出版书籍
+description: 橙子出版的书籍
 ---
-### 零基础编程课
-* [Lesson 1 Tree Drawing](programming/lesson1.html)
-* [Lesson 2 Euler's Identity, pi and e](programming/lesson2.html)
-* [Lesson 3 Water Cube Modeling](programming/lesson3.html)
+### 出版书籍列表
+* [《新手妈妈通关指南》](assets/books/新手妈妈通关指南.pdf)
+* [《最好的养育是不焦虑》简体](assets/books/最好的养育是不焦虑.pdf)
+* [《最好的养育是不焦虑》繁体](assets/books/最好的養育是不焦慮_繁.pdf)
