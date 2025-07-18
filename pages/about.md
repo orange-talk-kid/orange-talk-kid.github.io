@@ -1,9 +1,13 @@
 ---
-layout: page
-title: 榨汁机爸爸实验室
-description: zhazhijibaba
+layout: frontpage
+title: orange-talk-kid
+description: 橙子说说育儿
+keywords: orange-talk-kid
 ---
 
-学习不只是看书，还可以在实验室里打怪升级。装备最新技术，绘制人类科学地图，做孩子眼中最炫酷的爸爸。
+橙子说说育儿
+======
 
-<img src="..//assets/pictures/qrcode.jpg?raw=true" width="25%" height="25%">
+橙子  教育硕士，旅居北美十七年，资深母婴教育媒体人，著有《新手妈妈通关指南》《最好的养育是不焦虑》
+
+<img src="assets/pictures/IMG_4565.JPG?raw=true" width="25%" height="25%">
