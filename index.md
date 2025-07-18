@@ -14,6 +14,7 @@ keywords: orange-talk-kid
 
 我出的书
 ======
+免费下载
 * [《新手妈妈通关指南》](/assets/books/新手妈妈通关指南.pdf)
 * [《最好的养育是不焦虑》简体](/assets/books/最好的养育是不焦虑.pdf)
 * [《最好的养育是不焦虑》繁体](/assets/books/最好的養育是不焦慮_繁.pdf)
